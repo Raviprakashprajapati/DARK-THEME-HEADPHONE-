@@ -1,0 +1,239 @@
+@media ( 0px <= width <=575px)
+{
+/* {   EXTRA SMALL */
+
+    
+ .main-left img{
+    
+    height: 170px;
+    width: 140px;
+    display: block;
+    margin: 0 auto;
+}
+
+.main-right{
+    margin-top: 20px ;
+    text-align: center;
+}
+
+.main-right h1{
+    font-size: 30px;
+
+}
+
+.main-right p{
+   
+    font-size: 15px; 
+}
+
+.price1{
+    width: 15rem;
+    height: 320px;
+}
+.price1 img{
+    height: 180px;
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.price1 h5{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.price1 a{
+    font-size: 10px;
+    /* margin-top: -15px; */
+}
+
+.details-icons{
+   font-size: 30px;
+   
+}
+
+.details-line h2{
+    font-size: 23px;
+}
+
+
+.partner-img{
+    /* border: 2px solid red; */
+    margin-left: 50px;
+}
+
+.partner-img1{
+
+    height: 100px;
+    width: 100px;
+}
+.partner-img2{
+
+    height: 70px;
+    width: 80px;
+}
+
+.partner-img3{
+    margin-top: 14px;
+
+    height: 50px;
+    width: 80px;
+}
+
+
+#boat{
+    font-size: 30px;
+    color: rgb(255, 64, 64);
+}
+
+#mivi{
+    font-size: 30px;
+    color: rgb(80, 255, 64);
+}
+
+#jbl{
+    font-size: 30px;
+    color: rgb(64, 77, 255);
+}
+
+
+
+}
+
+@media ( 576px <= width <=767px)
+{   
+ /* SMALL */
+
+
+ .main-left img{
+    
+    height: 200px;
+    width: 170px;
+    display: block;
+    margin: 0 auto;
+}
+
+.main-right{
+    margin-top: 20px ;
+    text-align: center;
+}
+
+.main-right h1{
+    font-size: 40px;
+
+}
+
+.main-right p{
+   
+    font-size: 25px; 
+}
+
+.details-line h2{
+    font-size: 30px;
+}
+
+
+
+.partner-img{
+    /* border: 2px solid red; */
+    margin-left: 50px;
+}
+
+.partner-img1{
+
+    height: 100px;
+    width: 100px;
+}
+.partner-img2{
+
+    height: 70px;
+    width: 80px;
+}
+
+.partner-img3{
+    margin-top: 14px;
+
+    height: 50px;
+    width: 80px;
+}
+
+
+
+
+}
+
+@media ( 768px <= width <=991px)
+{
+    /* MEDIUNM */
+
+    .main-left img{
+        height: 230px;
+        width: 200px;
+    }
+    
+    .main-right h1{
+        margin-top: 30px;
+        font-size: 40px;
+    
+    }
+    
+    .main-right p{
+       
+        font-size: 25px; 
+    }
+
+
+    .partner-img{
+        /* border: 2px solid red; */
+        margin-left: 50px;
+    }
+    
+    .partner-img1{
+    
+        height: 100px;
+        width: 100px;
+    }
+    .partner-img2{
+    
+        height: 70px;
+        width: 80px;
+    }
+    
+    .partner-img3{
+        margin-top: 14px;
+    
+        height: 50px;
+        width: 80px;
+    }
+    
+
+
+
+}
+
+@media ( 992px <= width <=1199px)
+{
+    /* LARGE */
+
+    .main-left img{
+        height: 270px;
+        width: 240px;
+    }
+    
+    .main-right h1{
+        margin-top: 30px;
+        font-size: 50px;
+    
+    }
+    
+    .main-right p{
+       
+        font-size: 20px; 
+    }
+}
+
+@media screen and (min-width:1200px) 
+{
+    /* EXTRA LARGE */
+}
